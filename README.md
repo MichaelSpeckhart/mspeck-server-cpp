@@ -1,2 +1,2 @@
 # mspeck-server-cpp
-HTTP server in C++
+HTTP tcp server in C++
